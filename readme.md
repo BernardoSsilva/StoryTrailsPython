@@ -1,3 +1,21 @@
+# Sobre o projeto
+
+### Objetivo
+O projeto StoryTrails foi um projeto de finalização de conteúdo para o primeiro semestre da matéria de programação para engenharia, no curso de engenharia da computação da universidade Unisatc
+
+### Sinopse do projeto
+O projeto visa ser um sistema de organizazção de leitura anual, onde o usuário poderá realizar o registro de livros, separando-os por coleções especificas, cada uma com seus objetivos especificos
+O repositório em questão foi criado para armazenar o backend do projeto, desenvolvido em django.
+
+### Conceitos aplicados
+
+- API Rest
+- Backend
+
+## Tecnologias utilizadas
+
+<img src="https://skillicons.dev/icons?i=git,py,django,postgres" />
+
 # Instalação e Execução do Projeto
 
 ## Instalação
